@@ -1,6 +1,6 @@
 {
 	"values": [
-		"vanilla_christmas:load",
-		"vanilla_christmas:second"
+		"vanilla_holidays:load",
+		"vanilla_holidays:second"
 	]
 }

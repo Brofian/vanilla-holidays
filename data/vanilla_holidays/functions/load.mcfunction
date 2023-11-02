@@ -9,4 +9,4 @@
 
 
 # Create configuration, if it does not exist yet
-execute unless data storage vanilla_christmas:config {is_initialized:1b} run function vanilla_christmas:initialize
+execute unless data storage vanilla_holidays:config {is_initialized:1b} run function vanilla_holidays:initialize
