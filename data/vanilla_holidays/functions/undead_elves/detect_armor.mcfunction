@@ -1,6 +1,6 @@
 #
 # Description:	Detect armor on the executing entity
-# Called by:	load.mcfunction
+# Called by:	undead_elves/loop.mcfunction
 # Entity @s:	Player|Zombie|Skeleton
 
 # helmet
