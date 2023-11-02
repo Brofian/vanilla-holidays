@@ -16,3 +16,6 @@ This cosmetic feature puts all zombies and skeletons into neat Christmas outfits
 - The leather armor will not drop. Neither on death, nor when switching to a better amor
 - The leather helmet will not prevent the mob from burning in sunlight, as it will break at the first damage tick
 - The leather armor will not replace naturally generated amor. Only free slots will be filled with the costume
+- Execute `/function vanilla_christmas:undead_elves/detect_armor` to checkout the armor on yourself ;)
+ 
+![Undead Elf](https://github.com/Brofian/vanilla-holidays/assets/47611528/18c7dcee-fff0-4839-a144-6a95c9c8a47c)
