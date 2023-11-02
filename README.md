@@ -13,10 +13,10 @@ by clicking on `[disabled]` or `[enabled]` respectively.
 ### Undead elves
 This cosmetic feature puts all Zombies, Skeletons, Wither-Skeletons and Piglins into neat Christmas outfits, but ensures a normal vanilla gameplay!
 - The leather armor does not create any resistance (as if it wasn't there)
-- The leather armor will not drop. Neither on death, nor when switching to a better amor
+- The leather armor will not drop. Neither on death, nor when switching to a better armor
 - The leather helmet will not prevent the mob from burning in sunlight, as it will break at the first damage tick
 - The leather armor will not replace naturally generated amor. Only free slots will be filled with the costume
-- Execute `/function vanilla_holidays:undead_elves/equip_[santa/elf]_armor` to checkout the armor on yourself ;)
+- Execute `/function vanilla_holidays:undead_elves/equip_[santa/elf]_armor` to check out the armor on yourself ;)
 - Use the command `/execute as @e if predicate vanilla_holidays:has_custom_armor run <command>` to target all entities with custom armor
  
 ![Undead Elf](https://github.com/Brofian/vanilla-holidays/assets/47611528/18c7dcee-fff0-4839-a144-6a95c9c8a47c)
