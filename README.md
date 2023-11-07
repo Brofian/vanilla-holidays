@@ -24,4 +24,9 @@ This cosmetic feature puts all Zombies, Skeletons, Wither-Skeletons and Piglins 
 ### Snowy snowballs
 Add sparkly trails and a fluffy bit of snow particles on collision when throwing snowballs! 
 
-
+### Mistletoes
+Bring some love into the world by setting up your very own mistletoe! Just place a glow item frame and put a sweet berry inside as the first item! If the berry is called "Mistletoe" (or "Mistelzweig"), the itemframe will convert!
+- The new mistletoe will spawn some particles, if a player is nearby
+- Every second, a random player is chosen. If he/she is standing under a mistletoe with another player, hearts will appear
+- The number of hearts depends on the distance between the two players. More players will disturb the moment! So give the others their personal space ;)
+- A mistletoe can easily be removed by taking the item out of the itemframe
