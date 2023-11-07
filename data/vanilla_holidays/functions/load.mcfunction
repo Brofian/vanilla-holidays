@@ -5,7 +5,7 @@
 
 
 # Create scoreboards
-# scoreboard objectives add dummy_score dummy
+scoreboard objectives add vh_entity_y_pos dummy
 
 
 # Create configuration, if it does not exist yet
