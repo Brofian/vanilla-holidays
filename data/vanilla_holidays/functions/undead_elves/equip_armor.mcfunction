@@ -4,13 +4,13 @@
 # Entity @s:	Player|Zombie|Skeleton
 
 # helmet
-execute if predicate vanilla_holidays:has_no_head_armor run data modify entity @s ArmorDropChances[3] set value 0f
+execute if predicate vanilla_holidays:armor/has_no_head_armor run data modify entity @s ArmorDropChances[3] set value 0f
 # chestplate
-execute if predicate vanilla_holidays:has_no_chest_armor run data modify entity @s ArmorDropChances[2] set value 0f
+execute if predicate vanilla_holidays:armor/has_no_chest_armor run data modify entity @s ArmorDropChances[2] set value 0f
 # leggings
-execute if predicate vanilla_holidays:has_no_leg_armor run data modify entity @s ArmorDropChances[1] set value 0f
+execute if predicate vanilla_holidays:armor/has_no_leg_armor run data modify entity @s ArmorDropChances[1] set value 0f
 # boots
-execute if predicate vanilla_holidays:has_no_feet_armor run data modify entity @s ArmorDropChances[0] set value 0f
+execute if predicate vanilla_holidays:armor/has_no_feet_armor run data modify entity @s ArmorDropChances[0] set value 0f
 
 
 
